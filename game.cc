@@ -156,3 +156,11 @@ void Game::RemoveInactive() {
     }
   }
 }
+
+// boost that allows the player's projectile to get bigger if they reach a
+// score of 10 or higher
+void Game::Boost() {
+  if (score_ >= 10) {
+    pp.size()++;
+  }
+}

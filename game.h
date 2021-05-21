@@ -50,6 +50,8 @@ class Game : public graphics::AnimationEventListener,
 
   void RemoveInactive();
 
+  void Boost();
+
  private:
   int width_;
   int height_;
