@@ -1,8 +1,12 @@
 Description
-Describe what you did for this milestone in your own words. We finished the game by adding a scoreboard and looking more at the different mouse clicks.
+Describe what you did for this milestone in your own words.
+I added a boost that allows the projectile to get bigger after the player
+reaches a score of 10.
 
 Challenges encountered
-Describe the challenges you encountered while working on this milestone of the project. Some of the challenges were changing the functions to receive pointers.
+Describe the challenges you encountered while working on this milestone of the project.
+I didn't really encounter any challenges with this section.
 
 Things I've learned
-What is the most important thing you've learned from this milestone in the project? I learned more about pointers in this milestone.
+What is the most important thing you've learned from this milestone in the project?
+The most important thing I learned in this milestone was implementing functions.
